@@ -4,8 +4,8 @@ This is ultimately a fork of [FreakyDazio/vagrant-golang](https://github.com/Fre
 ## Requirements
 In order to use this repository you need the following:
 
-- [VirtualBox](https://www.virtualbox.org/)
-- [Vagrant](http://www.vagrantup.com/)
+- [VirtualBox >= 4.0](https://www.virtualbox.org/)
+- [Vagrant >= 1.5.4](http://www.vagrantup.com/)
 - [Puppet](http://docs.puppetlabs.com/guides/installation.html)
 
 ## Using vagrant-martini
